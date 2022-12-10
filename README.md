@@ -303,6 +303,7 @@ Alternatives to: [LaunchDarkly](https://launchdarkly.com/)
 | [GrowthBook](https://www.growthbook.io/)  [![GrowthBook](https://github.com/growthbook.png?size=20)](https://www.growthbook.io/) | [![GrowthBook](https://img.shields.io/github/stars/growthbook/growthbook.svg?style=social)](https://github.com/growthbook/growthbook)       |   Yes   |
 |          [Unleash](https://www.getunleash.io/)  [![Unleash](https://github.com/Unleash.png?size=20)](https://www.getunleash.io/) | [![Unleash](https://img.shields.io/github/stars/Unleash/unleash.svg?style=social)](https://github.com/Unleash/unleash)                      |   Yes   |  
 |                                                                                         [FeatureHub](https://www.featurehub.io/) | [![FeatureHub](https://img.shields.io/github/stars/featurehub-io/featurehub.svg?style=social)](https://github.com/featurehub-io/featurehub) |   Yes   |  
+|                          [Flipt](https://flipt.io/)  [![Flipt](https://github.com/flipt-io.png?size=20)](httpshttps://flipt.io/) | [![Flipt](https://img.shields.io/github/stars/flipt-io/flipt.svg?style=social)](https://github.com/flipt-io/flipt)                          |   Yes   |  
 
 ## File Hosting
 Alternatives to: [Dropbox](https://www.dropbox.com/), [Google Drive](https://drive.google.com/)
